@@ -26,7 +26,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'reactbase' do
+target 'vizum' do
   config = use_native_modules!
 
   use_react_native!(
@@ -40,7 +40,7 @@ target 'reactbase' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'reactbaseTests' do
+  target 'vizumTests' do
     inherit! :complete
     # Pods for testing
   end

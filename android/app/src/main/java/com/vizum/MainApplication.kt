@@ -1,4 +1,4 @@
-package com.reactbase
+package com.vizum
 
 import android.app.Application
 import com.facebook.react.PackageList
