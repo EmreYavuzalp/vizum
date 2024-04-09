@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792828679467",
+    "project_id": "vizum-64845",
+    "storage_bucket": "vizum-64845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792828679467:android:c163445d06428ed3bd216e",
+        "android_client_info": {
+          "package_name": "com.vizum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDm3kBSIqO3VU_0iETGrrlfLP2pWk0dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
